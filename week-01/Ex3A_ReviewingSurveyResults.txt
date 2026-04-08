@@ -1,0 +1,36 @@
+1. What conclusion can you reach about the responses to this question?
+
+Most students said they plan to prepare before class by getting their materials ready, such as their laptop, notebook, or documents. Some also mentioned waking up early or making sure they are ready to join the meeting on time. This shows that many students want to start class prepared and organized.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+The summary is helpful because it shows the number of responses and gives an overview of what people answered. However, it could be improved by showing clearer charts or grouping similar answers together so it is easier to see patterns in the responses.
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+
+The actual text responses can usually be found by clicking “view responses” or by looking at the full data in Excel. Something tricky about analyzing these answers is that people might write different things even if they mean the same idea, which makes it harder to group the responses.
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+One challenge is that everyone writes their answers in different ways. Some responses are short and others are longer. This can make it difficult to quickly identify patterns or common themes in the answers.
+
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+
+In the future, the survey could include more multiple-choice options so responses are easier to analyze. For example, instead of only written responses, the survey could give a few common options and still include an “Other” choice.
+
+
+6. Is there anything that surprised you about the survey responses?
+
+Something that surprised me is that many students prefer taking notes with pen and paper instead of on their computer. I expected more people to use their computer since this is a data analytics program.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+
+One idea I might include in my routine is making sure my laptop is ready and all my materials are prepared before class starts. I am also curious about learning more about SQL, since some students mentioned being interested in that topic.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+As an instructor, this survey shows that some students are new to topics like SQL. This means it would be helpful to explain concepts clearly and start with the basics so everyone can follow along.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not?
+
+I think making the survey anonymous can be helpful because students might feel more comfortable sharing honest answers. However, one disadvantage is that the instructor cannot follow up with specific students if they have questions or need extra help.
