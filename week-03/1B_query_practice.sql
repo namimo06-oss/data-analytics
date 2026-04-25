@@ -22,7 +22,7 @@ AND UnitsOnorder >= 1;
 /*4). Examine the products table. How does it identify the type (category) of each item
 sold? Where can you find a list of all categories? Write a set of queries to answer these
 questions, ending with a query that creates a list of all the seafood items we carry.*/
-SELECT * FROM Products;
+/*SELECT * FROM Products;  THIS IS ANOTHER WAIT TO DO IT BUT USING JOINS
 SELECT * FROM Categories;
 SELECT 
 	Products.ProductID,
@@ -31,7 +31,12 @@ SELECT
 FROM Products 
 JOIN Categories
 	ON Products.CategoryID = Categories.CategoryID
-WHERE Categories.CategoryName= 'Seafood';
+WHERE Categories.CategoryName= 'Seafood'; */
+
+SELECT CategoryID, CategoryName FROM categories; -- category ID for Seafood is 8
+SELECT ProductID, ProductName, CategoryID FROM products
+WHERE CategoryID = 8;
+
 
 /* 5). Examine the products table again. How do you know what supplier each product
 comes from? Where can you find info on suppliers? Write a set of queries to find the
