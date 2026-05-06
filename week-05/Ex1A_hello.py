@@ -20,5 +20,4 @@ print (dollar + cents)
 
 d_str = '3 dollars'
 c_str = '50 cents'
-print (d_str + " " + c_str)
-#there most be an space within the quotes
+print (d_str + " " + c_str) #there most be an space within the quotes
