@@ -179,3 +179,10 @@ if sum(basket) < grocery_budget:
     print(f"Keep shopping - #{grocery_budget - sum(basket)}left")
 elif (grocery_budget - sum(basket)) < 10:
     print("Caution: you have less than $10")
+
+
+
+
+
+
+
