@@ -1,3 +1,6 @@
+
+# BONUS LAB 2 EX2D
+
 # Ask user for a name
 name = input("Enter a name: ")
 
